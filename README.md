@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Sándor 👋
 
-<!--
-**sandor-kardos/sandor-kardos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Automation Engineer & Product Builder
+I bridge the gap between human-centric design and rapid engineering. I specialize in the **Antigravity framework**, building production-ready AI tools in 24-hour sprints.
 
-Here are some ideas to get you started:
+- 🛠 **Current Sprint:** [SnapTaxx](https://sandorkardos.com) (AI Tax Assistant)
+- 🤖 **Shipped AI Pipelines:** [Mesenet.hu](https://mesenet.hu) & [MaSkocia](https://sandorkardos.com)
+- ⚡ **Tech Stack:** Python, JavaScript, n8n, PocketBase, Headless WordPress (Docker/VPS)
+- 🎨 **Foundation:** 5+ years in Design & UX — applying "Design-First" logic to AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**"I don't just write code; I build solutions that ship by tomorrow."**
+
+[Portfolio](https://sandorkardos.com) | [LinkedIn](https://www.linkedin.com/in/sandor-kardos/)
